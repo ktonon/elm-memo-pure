@@ -1,4 +1,6 @@
-# elm-pure-memo
+# elm-memo-pure
+
+[![CircleCI](https://img.shields.io/circleci/project/github/ktonon/elm-memo-pure/master.svg)](https://circleci.com/gh/ktonon/elm-memo-pure)
 
 Single argument function memoization in pure elm.
 
@@ -7,5 +9,5 @@ Motivated by the [deprecation of elm-lang/lazy][]. This library is inspired by [
 See the [documentation][] for examples.
 
 [deprecation of elm-lang/lazy]:https://github.com/elm-lang/lazy/commit/c9c3f8525d22978cd7ee6e463ebf208f30fa1f91
-[documentation]:http://package.elm-lang.org/packages/ktonon/elm-pure-memo/latest/Memo
+[documentation]:http://package.elm-lang.org/packages/ktonon/elm-memo-pure/latest/Memo
 [eeue56/elm-lazy]:http://package.elm-lang.org/packages/eeue56/elm-lazy/latest

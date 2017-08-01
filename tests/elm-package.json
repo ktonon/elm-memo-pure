@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "Test Suites",
-    "repository": "https://github.com/ktonon/elm-pure-memo.git",
+    "repository": "https://github.com/ktonon/elm-memo-pure.git",
     "license": "BSD3",
     "source-directories": [
         "../src",

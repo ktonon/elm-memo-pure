@@ -15,4 +15,5 @@ test:
   pre:
     - elm make --yes
   override:
-    - elm-doc-test && elm test
+    - elm-doc-test
+    - elm test
