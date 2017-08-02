@@ -1,5 +1,6 @@
 # elm-memo-pure
 
+[![elm-package](https://img.shields.io/badge/elm-1.0.0-blue.svg)](http://package.elm-lang.org/packages/ktonon/elm-memo-pure/latest)
 [![CircleCI](https://img.shields.io/circleci/project/github/ktonon/elm-memo-pure/master.svg)](https://circleci.com/gh/ktonon/elm-memo-pure)
 
 Single argument function memoization in pure elm.
